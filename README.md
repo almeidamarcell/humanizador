@@ -1,6 +1,6 @@
 # Humanizador
 
-Skill para o Claude Code e o OpenCode que remove sinais de escrita gerada por IA, fazendo o texto soar mais natural e humano. Versão em português do Brasil.
+Skill para o Claude Code e o OpenCode que remove sinais de escrita gerada por IA, fazendo o texto soar mais natural e humano. Versão em português do Brasil, Hebert Richards.
 
 > Adaptação em pt-br baseada na skill [blader/humanizer](https://github.com/blader/humanizer), originalmente em inglês.
 
